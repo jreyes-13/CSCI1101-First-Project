@@ -12,5 +12,8 @@ int main()
     cout << "Welcome to your first program in C++" << endl;
     cout << "10 * 3 = " << 10 * 3 << endl;
     cout << endl;
+
+    cout << "this project is connected to GitHub now." << endl;
+
     return 0;
 }
