@@ -17,7 +17,7 @@ double subtract(double a, double b);
 double multiply(double a, double b);
 double divide(double a, double b);
 double sq(double a);
-//double sqroot(double a);
+double sqroot(double a);
 
 int main() {
     double num1, num2;
@@ -100,8 +100,8 @@ double sq(double a) {
 
 // Feature 6: Square Root. Use the pre-defined function: sqrt(x)
 // Created by: [Name of Team member #2]
-//double sqroot(double a) {
-//    return 0;
-//}
+double sqroot(double a) {
+    return 0;
+}
 
 
