@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// function prototypes 
 double add(double a, double b);
 double subtract(double a, double b);
 double multiply(double a, double b);
@@ -19,6 +20,7 @@ double divide(double a, double b);
 double sq(double a);
 double sqroot(double a);
 
+// the main function
 int main() {
     double num1, num2;
     char operation;
@@ -69,39 +71,39 @@ int main() {
 }
 
 // Feature 1: Addition
-// Created by: [Name of Team member #1]
+// Created by: JR
 double add(double a, double b) {
-    return 0;
+    return a + b;
 }
 
 // Feature 2: Subtraction.
-// Created by: [Name of Team member #2]
+// Created by: JR
 double subtract(double a, double b) {
-    return 0;
+    return a - b;
 }
 
 // Feature 3: Multiplication.
-// Created by: [Name of Team member #1]
+// Created by: JR
 double multiply(double a, double b) {
-    return 0;
+    return a * b;
 }
 
 // Feature 4: Division.
-// Created by: [Name of Team member #2]
+// Created by: JR
 double divide(double a, double b) {
-    return 0;
+    return a / b;
 }
 
 // Feature 5: Square function.
-// Created by: [Name of Team member #1]
+// Created by: JR
 double sq(double a) {
-    return 0;
+    return a * a;
 }
 
 // Feature 6: Square Root. Use the pre-defined function: sqrt(x)
-// Created by: [Name of Team member #2]
+// Created by: JR
 double sqroot(double a) {
-    return 0;
+    return sqrt(a);
 }
 
 
