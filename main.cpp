@@ -13,7 +13,7 @@ int main()
     cout << "10 * 3 = " << 10 * 3 << endl;
     cout << endl;
 
-    cout << "this project is connected to GitHub now. One more modification." << endl;
+    cout << "this project is connected to GitHub now. One more modification." << endl << endl;
 
     return 0;
 }
